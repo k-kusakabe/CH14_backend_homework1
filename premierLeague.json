@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Manchester City",
+    "city": "Manchester",
+    "stadium": "Ethihad Stadium"
+  },
+  {
+    "id": "2",
+    "name": "Arsenal",
+    "city": "London",
+    "stadium": "Emirates Stadium"
+  },
+  {
+    "id": "3",
+    "name": "Machester United",
+    "city": "Manchester",
+    "stadium": "Old Trafford"
+  },
+  {
+    "id": "4",
+    "name": "Newcastle United",
+    "city": "Newcastle upon Tyne",
+    "stadium": "St. James' Park"
+  },
+  {
+    "id": "5",
+    "name": "Liverpool",
+    "city": "Liverpool",
+    "stadium": "Anfield"
+  },
+  {
+    "id": "6",
+    "name": "Brighton And Hove Albion",
+    "city": "Brighton",
+    "stadium": "American Express Community Stadium"
+  },
+  {
+    "id": "7",
+    "name": "Aston Villa",
+    "city": "Birmingham",
+    "stadium": "Villa Park"
+  },
+  {
+    "id": "8",
+    "name": "Tottenham Hotspur",
+    "city": "London",
+    "stadium": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "9",
+    "name": "Brentford",
+    "city": "London",
+    "stadium": "Gtech Community Stadium"
+  },
+  {
+    "id": "10",
+    "name": "Fulham",
+    "city": "London",
+    "stadium": "Craven Cottage"
+  }
+]
